@@ -91,3 +91,5 @@ def main():
   st.subheader("꽃종류별 예측 확률")
   st.write(predict_proba)
 
+if __name__ == '__main__':
+	main()
